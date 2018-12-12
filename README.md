@@ -1,2 +1,2 @@
 # NewProjectTemplate
-Android New Project MVVMTemplate
+Android New Project MVVM Template
